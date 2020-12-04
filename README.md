@@ -1,4 +1,4 @@
-# CEE4520_FinalProject
+# CEE4520
 Sustainable Safe Water on Tap
 
 [CEE 4520 Depository](https://github.com/AguaClara/CEE4520)
